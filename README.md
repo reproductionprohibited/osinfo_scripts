@@ -13,8 +13,15 @@ cd <path/to/extracted/zip>
 
 - Run this command for the scripts to run smoothly
 ```
-chmod +x *.sh
+chmod +x oss/*.sh
 ```
+
+- To run a script (don't forget about <i>sh</i> file extension 😉)
+```
+./oss/<script_name>
+```
+
+## About scripts
 
 - base.sh :: Basic information
 - battery.sh :: Battery information (charge% + battery health + ...)
