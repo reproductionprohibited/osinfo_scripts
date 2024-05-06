@@ -11,7 +11,7 @@
 cd <path/to/extracted/zip>
 ```
 
-- Run this command for the scripts to run smoothly
+- Run this command to make the scripts runnable
 ```
 chmod +x oss/*.sh
 ```
