@@ -1,5 +1,5 @@
 # Scripts
-<b>Different <i>.sh</i> scripts for having fun in the terminal :)</b>
+<b>Various <i>.sh</i> scripts for having fun in the terminal :)</b>
 
 ## Usage
 
